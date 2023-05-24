@@ -22,13 +22,13 @@ To get started with Video-Chat-Stream, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/mohd-shibilicv/Video-Chat-Stream.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd project-name
+   cd Video-Chat-Stream
    ```
 
 3. Install the required Python packages using pip:
